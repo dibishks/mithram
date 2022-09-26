@@ -7526,7 +7526,10 @@ h1, h2, h3, h4, h5,
     line-height: 1.2;
     font-weight: 400;*/
 
+    /*
     color: #fff;
+    */
+    color: #05bd58;
     margin-top: 0;
     font-size: 50px;
     font-weight: bold;
