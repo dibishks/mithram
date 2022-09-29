@@ -7529,7 +7529,7 @@ h1, h2, h3, h4, h5,
     /*
     color: #fff;
     */
-    color: #05bd58;
+    color: #fff;
     margin-top: 0;
     font-size: 50px;
     font-weight: bold;
@@ -7717,6 +7717,7 @@ h1, h2, h3, h4, h5,
       -ms-border-radius: 0;
       border-radius: 0;
       border-width: 1px;
+      background-color: #0d6efd;
       color: #fff; }
       .btn.btn-white.btn-outline-white:hover, .btn.btn-white.btn-outline-white:focus, .btn.btn-white.btn-outline-white:active {
         background: #fff;
